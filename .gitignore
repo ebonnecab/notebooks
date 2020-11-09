@@ -88,3 +88,4 @@ venv/
 ENV/
 
 
+jupyter-notebooks/.DS_Store
